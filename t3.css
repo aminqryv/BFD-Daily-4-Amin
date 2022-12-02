@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    margin: 10px;
+    justify-content: space-around;
+    display: flex;
+}
+.b1{
+    margin: 10px;
+    flex-grow: 1;
+
+}
+.b2{
+    margin: 10px;
+    flex-grow: 2;
+
+}
+.b3{
+    margin: 10px;
+    flex-grow: 3;
+
+}
